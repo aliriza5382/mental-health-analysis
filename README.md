@@ -20,3 +20,6 @@ Ruh sağlığı verileri üzerinde istatistiksel analiz ve makine öğrenmesi il
 - `data/`: Veri dosyaları
 - `codes/`: Proje kodları ve kütüphaneler
 - `docs/`: PDF poster ve makale
+
+## Geliştiren
+Ali Rıza Şahin
